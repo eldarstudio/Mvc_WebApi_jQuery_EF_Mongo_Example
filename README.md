@@ -1,1 +1,1 @@
-# Mvc_WebApi_jQuery_EF_Mongo_Example
+Simple Project that demostrate how to work with Mvc, WebApi, jQuery, EntityFramework and Mongo
